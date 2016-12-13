@@ -1,4 +1,4 @@
-DEFAULT_SOCKET_URL = 'http://www.hyperlocalcontext.com/';
+DEFAULT_SOCKET_URL = 'https://www.hyperlocalcontext.com/';
 
 
 /**
